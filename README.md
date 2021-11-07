@@ -1,1 +1,1 @@
-# Flutter + State management + Async programming + Bloc + RxDart
+# Flutter + Async programming + Bloc + RxDart
